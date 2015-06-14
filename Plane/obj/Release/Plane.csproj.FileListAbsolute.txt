@@ -1,0 +1,6 @@
+D:\C++ exercise\TestGame\Plane\bin\Release\Plane.exe.config
+D:\C++ exercise\TestGame\Plane\bin\Release\Plane.exe
+D:\C++ exercise\TestGame\Plane\bin\Release\Plane.pdb
+D:\C++ exercise\TestGame\Plane\obj\Release\Plane.csprojResolveAssemblyReference.cache
+D:\C++ exercise\TestGame\Plane\obj\Release\Plane.exe
+D:\C++ exercise\TestGame\Plane\obj\Release\Plane.pdb

@@ -1,0 +1,11 @@
+D:\C++ exercise\TestGame\Plane\bin\Debug\Plane.exe.config
+D:\C++ exercise\TestGame\Plane\bin\Debug\Plane.exe
+D:\C++ exercise\TestGame\Plane\bin\Debug\Plane.pdb
+D:\C++ exercise\TestGame\Plane\obj\Debug\Plane.csprojResolveAssemblyReference.cache
+D:\C++ exercise\TestGame\Plane\obj\Debug\Plane.exe
+D:\C++ exercise\TestGame\Plane\obj\Debug\Plane.pdb
+D:\C++ exercise\TestGame\Plane\obj\Debug\Plane.Properties.Resources.resources
+D:\C++ exercise\TestGame\Plane\obj\Debug\Plane.csproj.GenerateResource.Cache
+D:\C#\Plane\Plane\bin\Debug\Plane.exe.config
+D:\C#\Plane\Plane\obj\Debug\Plane.exe
+D:\C#\Plane\Plane\obj\Debug\Plane.pdb
